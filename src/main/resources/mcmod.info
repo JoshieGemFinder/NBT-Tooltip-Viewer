@@ -1,0 +1,14 @@
+[
+    {
+        "modid": "nbttooltipviewer",
+        "name": "NBT Tooltip Viewer",
+        "description": "Simply renders the item's NBT in its tooltip, no super fancy formatting applied.",
+        "version": "1.0",
+        "mcversion": "1.12",
+        "authorList": ["JoshieGemFinder"],
+        "credits": "JoshieGemFinder",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]
